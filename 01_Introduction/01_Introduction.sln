@@ -5,13 +5,15 @@ VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Introduction", "01_Introduction\01_Introduction.csproj", "{4977B202-0C59-409F-9A15-C565CD9516FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_C_Sharp_Basics", "02_C_Sharp_Basics\02_C_Sharp_Basics.csproj", "{56856F2D-719A-4E87-AE6C-F64BCD18336D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_C_Sharp_Basics", "02_C_Sharp_Basics\02_C_Sharp_Basics.csproj", "{56856F2D-719A-4E87-AE6C-F64BCD18336D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_ExtentionMethods", "03_ExtentionMethods\03_ExtentionMethods.csproj", "{5E9C1656-735B-4F75-B040-92009CD48A4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_ExtentionMethods", "03_ExtentionMethods\03_ExtentionMethods.csproj", "{5E9C1656-735B-4F75-B040-92009CD48A4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_OOP", "04_OOP\04_OOP.csproj", "{CBC62EDE-73A9-4564-8A6D-F0C2658C8281}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_OOP", "04_OOP\04_OOP.csproj", "{CBC62EDE-73A9-4564-8A6D-F0C2658C8281}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Delegates", "05_Delegates\05_Delegates.csproj", "{4002FEC9-BB5C-4D67-A548-40A8174556DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_Delegates", "05_Delegates\05_Delegates.csproj", "{4002FEC9-BB5C-4D67-A548-40A8174556DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_FormatStrings", "06_FormatStrings\06_FormatStrings.csproj", "{46D73195-CF63-4A97-9B0E-453E020758D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{4002FEC9-BB5C-4D67-A548-40A8174556DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4002FEC9-BB5C-4D67-A548-40A8174556DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4002FEC9-BB5C-4D67-A548-40A8174556DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D73195-CF63-4A97-9B0E-453E020758D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D73195-CF63-4A97-9B0E-453E020758D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D73195-CF63-4A97-9B0E-453E020758D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D73195-CF63-4A97-9B0E-453E020758D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

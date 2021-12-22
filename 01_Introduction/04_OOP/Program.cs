@@ -9,7 +9,7 @@ namespace _04_OOP
             //Ein Auto und ein Motorrad Objekt erzeugen
             Auto a1 = new Auto("BMW", 4); 
             Motorrad m1 = new Motorrad("Ducati");
-
+            Array arr; 
             Fahrzeug[] fahrzeuge = { a1, m1 }; //Ein Fahrzeug Array erzeugen (Fahrzeug ist die Basisklasse zu Auto und Motorrad)
 
             foreach (Fahrzeug f in fahrzeuge)
