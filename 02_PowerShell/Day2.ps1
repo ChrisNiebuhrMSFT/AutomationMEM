@@ -34,7 +34,7 @@ $here = @"
 Hallo "Welt"
     12345
 
-"@
+"@ # Bitte den Here-String immer in der ersten Spalte abschlieﬂen
 
 
 # In here Strings ist kein Escaping erforderlich
